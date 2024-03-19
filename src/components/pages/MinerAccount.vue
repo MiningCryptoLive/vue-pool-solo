@@ -253,7 +253,7 @@
 </template>
 
 <script>
-  import Chart from '../../../node_modules/chart.js/src/chart'
+  import Chart from '../../../node_modules/chart.js/dist'
   import Helpers from '@/helpers'
 
   export default {
